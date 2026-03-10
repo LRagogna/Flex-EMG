@@ -3461,7 +3461,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 48.26) (xy 86.36 50.8)
+			(xy 86.36 48.26) (xy 86.36 52.07)
 		)
 		(stroke
 			(width 0)
@@ -4101,7 +4101,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 62.23) (xy 86.36 58.42)
+			(xy 86.36 62.23) (xy 86.36 59.69)
 		)
 		(stroke
 			(width 0)
@@ -7945,7 +7945,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 86.36 54.61 0)
+		(at 86.36 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7953,7 +7953,7 @@
 		(dnp no)
 		(uuid "e20afe65-2ea7-485f-94dd-d4efdc84e343")
 		(property "Reference" "C7"
-			(at 87.122 50.038 0)
+			(at 87.122 51.308 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7962,7 +7962,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 87.122 52.578 0)
+			(at 87.122 53.848 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7971,7 +7971,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.3252 58.42 0)
+			(at 87.3252 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7980,7 +7980,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 86.36 54.61 0)
+			(at 86.36 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7989,7 +7989,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 86.36 54.61 0)
+			(at 86.36 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
