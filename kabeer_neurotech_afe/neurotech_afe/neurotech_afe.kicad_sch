@@ -5366,16 +5366,6 @@
 		)
 		(uuid "93d5113f-4532-48aa-980d-657b4ba071c0")
 	)
-	(label "3.3V Rail"
-		(at 77.47 191.77 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "9e8390a7-974c-482f-8d9c-7b0df68c5160")
-	)
 	(label "Negative_Electrode"
 		(at 36.83 139.7 180)
 		(effects
@@ -7545,6 +7535,72 @@
 			(project ""
 				(path "/d657415d-773f-4d61-9200-85fede9d1019"
 					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 77.47 191.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "87ab9302-03c9-4cd3-8049-54ae8266ab79")
+		(property "Reference" "#PWR019"
+			(at 77.47 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 77.47 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 77.47 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 77.47 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "122a2424-3796-4c78-aa14-5fd0f583b0c9")
+		)
+		(instances
+			(project ""
+				(path "/d657415d-773f-4d61-9200-85fede9d1019"
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
