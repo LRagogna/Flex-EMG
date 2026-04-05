@@ -1,0 +1,19 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\alexi\Desktop\flexemg\Flex-EMG\circuitWithSallenKey copy.net
+Start Time: Sun Apr  5 15:42:22 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 1.790 seconds.
+
+Files loaded:
+C:\Users\alexi\Desktop\flexemg\Flex-EMG\circuitWithSallenKey copy.net
+C:\Users\alexi\Desktop\flexemg\Flex-EMG\AD620.cir
+C:\Users\alexi\AppData\Local\LTspice\lib\sub\UniversalOpAmp1.lib
+
