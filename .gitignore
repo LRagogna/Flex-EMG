@@ -2,3 +2,6 @@
 fp-info-cache
 *-backups/
 *.kicad_prl
+finalKiCad/neurotech_afe-backups/
+finalKiCad/fp-info-cache
+finalKiCad/neurotech_afe.kicad_prl
