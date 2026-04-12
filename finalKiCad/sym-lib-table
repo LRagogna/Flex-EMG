@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Flex-Emg")(type "KiCad")(uri "${KIPRJMOD}/Flex-Emg.kicad_sym")(options "")(descr ""))
+)
