@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Flex-EMG")(type "KiCad")(uri "${KIPRJMOD}/Flex-EMG.pretty")(options "")(descr ""))
+)
