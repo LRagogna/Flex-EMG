@@ -57,7 +57,7 @@ KiCad source (schematic, layout, footprints, and BOM) lives in
 | | |
 |:---:|:---:|
 | ![Breadboard prototype](pics/01-breadboard-prototype.jpeg)<br>**Breadboard prototype** of the front-end | ![Fabricated PCB](pics/02-fabricated-pcb.jpeg)<br>**Fabricated AFE board** fresh from the fab |
-| ![Reflow station](pics/03-reflow-station.jpeg)<br>**Reflow + rework bench** used for assembly | ![Assembly inspection](pics/04-assembly-inspection.jpeg)<br>**Inspecting a board** under the microscope |
+| ![Reflow station](pics/03-reflow-station.jpeg)<br>**Reflow + rework bench** used for assembly | ![Assembly inspection](pics/04-assembly-inspection.jpeg)<br>**Applying solder paste to board** |
 | ![Microscope layout](pics/05-microscope-layout.jpeg)<br>**Layout under the scope** during placement | ![Soldered components](pics/06-microscope-components.jpeg)<br>**Soldered ICs** — ADC and op-amp stages |
 
 ---
