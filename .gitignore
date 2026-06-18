@@ -1,7 +1,25 @@
+# macOS
 .DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# KiCad
 fp-info-cache
 *-backups/
 *.kicad_prl
+*.bak
+*.lck
+~*.lck
+_autosave-*
 finalKiCad/neurotech_afe-backups/
 finalKiCad/fp-info-cache
 finalKiCad/neurotech_afe.kicad_prl
+
+# Editor / misc
+.history/
