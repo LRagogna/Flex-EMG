@@ -1,5 +1,7 @@
 # Flex-EMG
 
+Notion Link: https://tabby-coat-711.notion.site/FlexEMG-110f756f6bd680bfb4d2c9bf16184d59
+
 A wearable surface-electromyography (sEMG) platform that reads muscle activity
 from the forearm, cleans it with a real-time digital filter chain, and
 classifies hand gestures using a lightweight machine-learning model.
